@@ -1,0 +1,59 @@
+img{
+    height:300px;
+    width:300px;
+    justify-content:center;    
+}
+html{
+    text-align:center;
+}
+.image1{
+    display:none;
+}
+
+.title{
+    font-family: 'Pirata One', cursive;
+    background-color:red;
+    border-radius:40px;
+    padding:1px;
+}
+.click1{
+    color:blue;
+}
+button{
+    background-color:lightblue;
+    border-radius:50px;
+    padding:15px;
+}
+.image2{
+    display:none;
+}
+
+.image4{
+    display:none;
+}
+
+.image3{
+    display:none;
+}
+
+.image5{
+    display:none;
+}
+
+.image6{
+    display:none;
+}
+
+.image7{
+    display:none;
+}
+
+.imageb{
+    display:none;
+}
+
+.image8{
+    display:none;
+}
+
+
